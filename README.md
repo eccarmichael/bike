@@ -1,2 +1,2 @@
 # bike
-Find the best bike trails in your city.
+Find the best bike trails in your city
